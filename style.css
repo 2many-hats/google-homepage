@@ -11,3 +11,11 @@ input {
     margin-right: auto;
     width: 50%;  
 }
+
+a {
+    font-size: 13px;
+    font-family: sans-serif;
+    text-decoration: none;
+    display: inline-block;
+    padding-left: 15px;
+}
