@@ -19,3 +19,10 @@ a {
     display: inline-block;
     padding-left: 15px;
 }
+.gb_P {
+    float: right;
+}
+
+.gb_rf {
+    float: left;
+}
