@@ -26,3 +26,35 @@ a {
 .gb_rf {
     float: left;
 }
+.gb_b {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+
+.fbar {
+    line-height: 40px;
+    font-family: sans-serif;
+    color:rgba(0,0,0,.54);
+    padding-left:27px;
+    margin-left:13px;
+    font-size:13px;
+    border-bottom:1px solid #e4e4e4
+}
+
+.gb_fl {
+    float: left;
+
+}
+
+.gb_fr {
+    float: right;
+}
+
+span {
+ padding-left: 17px;
+}
