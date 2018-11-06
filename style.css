@@ -41,13 +41,16 @@ p {
 }
 
 .fbar {
-    line-height: 40px;
-    font-family: sans-serif;
-    color:rgba(0,0,0,.54);
-    padding-left:27px;
-    margin-left:13px;
-    font-size:13px;
-    border-bottom:1px solid #e4e4e4
+    background-color: #f2f2f2;
+    font-family: arial, sans-serif;
+    color: rgba(0,0,0,.54);
+    font-size: small;
+    border-top: 1px solid #e4e4e4;
+    line-height: 30px;
+    bottom: 0;
+    position: absolute;
+    right: 0;
+    left: 0;
 }
 
 .gb_fl {
@@ -60,5 +63,14 @@ p {
 }
 
 span {
- padding-left: 17px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 17px;
+    font-size: 14px;
+    border-bottom: 1px solid #e4e4e4;
+}
+
+.li {
+    display: inline;
+    padding: 0 8px;
 }
